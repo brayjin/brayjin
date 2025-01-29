@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Brayjin J Antony
+##Hi there! 👋 I'm Brayjin J Antony
 
 🚀 About Me
 
@@ -16,15 +16,25 @@ Building a portfolio to showcase my projects and skills.
 
 🛠️ Tech & Skills
 
-Cybersecurity & Pentesting: Kali Linux, Metasploit, Nmap, Camphish, Android security testing.
+Cybersecurity & Pentesting
 
-Programming & Scripting: Python, Bash, Java, HTML, CSS.
+Kali Linux, Metasploit, Nmap, Camphish, Android security testing.
 
-Database Management: MySQL (beginner).
+Programming & Scripting
 
-Operating Systems: Arch Linux, Pop!_OS, Windows 11.
+Python, Bash, Java, HTML, CSS.
 
-Networking: Basic network security concepts, Wireshark.
+Database Management
+
+MySQL (beginner).
+
+Operating Systems
+
+Arch Linux, Pop!_OS, Windows 11.
+
+Networking
+
+Basic network security concepts, Wireshark.
 
 📌 Future Goals
 
@@ -43,3 +53,4 @@ LinkedIn: [Coming soon]
 Portfolio: [Coming soon]
 
 I'm always open to learning, collaborating, and connecting with like-minded individuals. Feel free to reach out!
+
