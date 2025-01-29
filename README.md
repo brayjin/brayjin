@@ -1,4 +1,4 @@
-##Hi there! 👋 I'm Brayjin J Antony
+Hi there! 👋 I'm Brayjin J Antony
 
 🚀 About Me
 
