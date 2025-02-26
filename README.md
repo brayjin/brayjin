@@ -32,7 +32,7 @@ I'm a **Cybersecurity Enthusiast** and **Aspiring Cybersecurity Data Scientist**
 
 ## 📫 Let's Connect!
 - **GitHub**: You're already here! 😉
-- **LinkedIn**: [Coming soon]
+- **LinkedIn**:https://www.linkedin.com/in/brayjin-j-antony-b63b3a291
 - **Portfolio**: [Coming soon]
 
 I'm always open to learning, collaborating, and connecting with like-minded individuals. Feel free to reach out!
